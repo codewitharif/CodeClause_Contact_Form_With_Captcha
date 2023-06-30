@@ -1,0 +1,39 @@
+.container {
+  margin: 30px auto;
+  background-color: skyblue;
+}
+
+legend {
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+.preview {
+  border: 1px dotted black;
+  width: 100%;
+  height: 40px;
+  font-weight: bolder;
+  font-size: larger;
+  background-color: #5176ffc4;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: line-through;
+}
+
+#captchaContainer {
+  margin-bottom: 20px;
+  background-color: grey;
+}
+
+.captchaImage {
+  width: 200px;
+  height: auto;
+  color: red;
+  border: 1px solid #000;
+  display: block;
+}
+
+#captchaInput {
+  margin-top: 10px;
+}
